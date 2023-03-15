@@ -1,6 +1,6 @@
 namespace ApplicationCore.Contracts.Repositories;
 
-public class ICandidateRepository
+public interface ICandidateRepository
 {
     
 }

@@ -1,6 +1,6 @@
 namespace ApplicationCore.Contracts.Services;
 
-public class ICandidateService
+public interface ICandidateService
 {
     
 }

@@ -1,6 +1,9 @@
+using ApplicationCore.Models;
+
 namespace ApplicationCore.Contracts.Services;
 
-public class IJobService
+public interface IJobService
 {
-    
+     List<JobResponseModel> GetAllJobs();
+     JobResponseModel GetJobById(int id);
 }

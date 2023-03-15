@@ -1,6 +1,6 @@
 namespace ApplicationCore.Contracts.Repositories;
 
-public class IJobRepository
+public interface IJobRepository
 {
     
 }

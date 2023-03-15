@@ -29,3 +29,8 @@
 /Users/anjila/RiderProjects/Feb2023/src/HRM/Services/Recruiting/RecruitingWeb/obj/Debug/net7.0/RecruitingWeb.pdb
 /Users/anjila/RiderProjects/Feb2023/src/HRM/Services/Recruiting/RecruitingWeb/obj/Debug/net7.0/RecruitingWeb.genruntimeconfig.cache
 /Users/anjila/RiderProjects/Feb2023/src/HRM/Services/Recruiting/RecruitingWeb/obj/Debug/net7.0/ref/RecruitingWeb.dll
+/Users/anjila/RiderProjects/Feb2023/src/HRM/Services/Recruiting/RecruitingWeb/bin/Debug/net7.0/ApplicationCore.dll
+/Users/anjila/RiderProjects/Feb2023/src/HRM/Services/Recruiting/RecruitingWeb/bin/Debug/net7.0/Infrastructure.dll
+/Users/anjila/RiderProjects/Feb2023/src/HRM/Services/Recruiting/RecruitingWeb/bin/Debug/net7.0/ApplicationCore.pdb
+/Users/anjila/RiderProjects/Feb2023/src/HRM/Services/Recruiting/RecruitingWeb/bin/Debug/net7.0/Infrastructure.pdb
+/Users/anjila/RiderProjects/Feb2023/src/HRM/Services/Recruiting/RecruitingWeb/obj/Debug/net7.0/RecruitingWeb.csproj.CopyComplete

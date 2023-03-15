@@ -1,6 +1,6 @@
 namespace ApplicationCore.Contracts.Services;
 
-public class ISubmissionService
+public interface ISubmissionService
 {
     
 }

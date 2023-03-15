@@ -1,6 +1,6 @@
 namespace ApplicationCore.Contracts.Repositories;
 
-public class IRepository
+public interface IRepository
 {
     
 }
