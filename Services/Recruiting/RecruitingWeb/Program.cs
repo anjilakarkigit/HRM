@@ -1,11 +1,19 @@
 using ApplicationCore.Contracts.Services;
+using Infrastructure.Data;
 using Infrastructure.Services;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<IJobService, JobService>();
+
+// Inject our ConnectionString into DbContext
+builder.Services.AddDbContext<RecruitingDbContext>(
+    options => options.UseSqlServer(builder.Configuration.GetConnectionString("RecruitingDbConnection"))
+);
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
